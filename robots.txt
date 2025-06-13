@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://loucollin.github.io/sitemap.xml
